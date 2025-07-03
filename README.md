@@ -44,9 +44,8 @@
 
 ### 🌐 Onde me encontrar
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/seu-id-aqui)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@seucanal)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@seuuser)
+[![Discord](https://img.shields.io/badge/Discord-cb__99x-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/cb_99x)  
+[![YouTube](https://img.shields.io/badge/YouTube-Carlos687g-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@carlos687g?si=FTqo8jeTj8pRuZ0y)
 
 ---
 
